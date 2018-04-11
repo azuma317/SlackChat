@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (4.5.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - SKClient (4.0.0):
+    - SKCore
+  - SKCore (4.0.4)
+  - SKRTMAPI (4.0.3):
+    - SKCore
+    - SKWebAPI
+    - Starscream
+  - SKServer (4.0.0):
+    - SKCore
+    - SKWebAPI
+    - Swifter
+  - SKWebAPI (4.0.7):
+    - SKCore
+  - SlackKit (4.0.0):
+    - SKClient
+    - SKCore
+    - SKRTMAPI
+    - SKServer
+  - Starscream (2.1.1)
+  - Swifter (1.3.3)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - SlackKit
+  - Starscream
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  SKClient: 45033b9d6887721875dcaee670ed8f35712596d7
+  SKCore: 47f7643fc82ed78fc1954350347dcb2811990812
+  SKRTMAPI: 5124e972a50eb863795023e2d8701840968480d0
+  SKServer: 1228843063095ac80b074abd7e0dfac30735518f
+  SKWebAPI: a8538700c992fd11be1914a0859ac572b3aea756
+  SlackKit: a8a6707cfcfc9247faba83860a327fa5410c9591
+  Starscream: 142bd8ef24592d985daee9fa48c936070b85b15f
+  Swifter: 3fef6ec31449a8e3a29cf8551a9fe23485f15bc0
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: c1f18ff98b30e05bf918b69236b472821e5ceed1
+
+COCOAPODS: 1.2.1

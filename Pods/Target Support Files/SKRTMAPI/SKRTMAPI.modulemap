@@ -1,0 +1,6 @@
+framework module SKRTMAPI {
+  umbrella header "SKRTMAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
